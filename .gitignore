@@ -1,0 +1,6 @@
+configuration.json
+
+.env
+*.pyc
+
+.vs/
